@@ -239,24 +239,6 @@ GET /api/chat/allchat
 
 ---
 
-# 📸 Screenshots
-
-Add screenshots here.
-
-```
-Home Page
-
-Login
-
-Dashboard
-
-Donor Search
-
-Chat
-```
-
----
-
 # 📈 Future Improvements
 
 - Blood Request Notifications
